@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,Train time (s),Inference time (s)
+Logistic Regression,0.7642,0.9707,0.604,0.7446,0.702,0.0128
+Decision Tree,0.7656,0.9663,0.6096,0.7476,0.2767,0.0127
+Random Forest,0.7758,0.9662,0.6281,0.7613,3.4606,0.1122
+Neural Network (MLP),0.7649,0.961,0.6119,0.7477,11.499,0.0287
